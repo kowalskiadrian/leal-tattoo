@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/leal-tattoo/static/css/main.e25235da.chunk.css",
+    "main.js": "/leal-tattoo/static/js/main.f54a065e.chunk.js",
+    "main.js.map": "/leal-tattoo/static/js/main.f54a065e.chunk.js.map",
+    "runtime-main.js": "/leal-tattoo/static/js/runtime-main.7cff8a93.js",
+    "runtime-main.js.map": "/leal-tattoo/static/js/runtime-main.7cff8a93.js.map",
+    "static/js/2.f49af598.chunk.js": "/leal-tattoo/static/js/2.f49af598.chunk.js",
+    "static/js/2.f49af598.chunk.js.map": "/leal-tattoo/static/js/2.f49af598.chunk.js.map",
+    "index.html": "/leal-tattoo/index.html",
+    "precache-manifest.3bbe6980e4dff236efa5333801672908.js": "/leal-tattoo/precache-manifest.3bbe6980e4dff236efa5333801672908.js",
+    "service-worker.js": "/leal-tattoo/service-worker.js",
+    "static/css/main.e25235da.chunk.css.map": "/leal-tattoo/static/css/main.e25235da.chunk.css.map",
+    "static/js/2.f49af598.chunk.js.LICENSE.txt": "/leal-tattoo/static/js/2.f49af598.chunk.js.LICENSE.txt",
+    "static/media/illustration.ca85cd52.svg": "/leal-tattoo/static/media/illustration.ca85cd52.svg",
+    "static/media/image01.jpg": "/leal-tattoo/static/media/image01.121ef34e.jpg",
+    "static/media/image02.jpg": "/leal-tattoo/static/media/image02.d63dd709.jpg",
+    "static/media/image03.jpg": "/leal-tattoo/static/media/image03.dac6ee6a.jpg",
+    "static/media/image04.jpg": "/leal-tattoo/static/media/image04.80dbf3a0.jpg",
+    "static/media/image05.jpg": "/leal-tattoo/static/media/image05.950626a0.jpg",
+    "static/media/image06.jpg": "/leal-tattoo/static/media/image06.a52ca08e.jpg",
+    "static/media/image07.jpg": "/leal-tattoo/static/media/image07.5802c747.jpg",
+    "static/media/image08.jpg": "/leal-tattoo/static/media/image08.500a823f.jpg",
+    "static/media/image09.jpg": "/leal-tattoo/static/media/image09.d6b6899b.jpg",
+    "static/media/image10.jpg": "/leal-tattoo/static/media/image10.8d3029a7.jpg",
+    "static/media/image11.jpg": "/leal-tattoo/static/media/image11.76c36825.jpg",
+    "static/media/image12.jpg": "/leal-tattoo/static/media/image12.38b1b5ec.jpg",
+    "static/media/image13.jpg": "/leal-tattoo/static/media/image13.cd66ff30.jpg",
+    "static/media/image14.jpg": "/leal-tattoo/static/media/image14.dfd0c418.jpg",
+    "static/media/profile.jpg": "/leal-tattoo/static/media/profile.f1dd540c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cff8a93.js",
+    "static/js/2.f49af598.chunk.js",
+    "static/css/main.e25235da.chunk.css",
+    "static/js/main.f54a065e.chunk.js"
+  ]
+}
