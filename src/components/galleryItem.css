@@ -1,0 +1,17 @@
+.gallery-item{
+  display: inline-block;
+}
+.gallery-item-wrapper{
+  width: 30vw;
+  height: 60vh;
+  margin: 0 1em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media screen and (max-width: 1024px){
+  .gallery-item-wrapper{
+    width: 80vw;
+  }
+}

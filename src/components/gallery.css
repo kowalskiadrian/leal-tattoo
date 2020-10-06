@@ -1,0 +1,30 @@
+.gallery{
+  width: 100%;
+  padding: 5em 0;
+}
+
+.gallery h1{
+  margin: 0.5em 10vw;
+  font-size: calc(1em + 2vw);
+  color: white;
+}
+
+.gallery-wrapper{
+  width: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.gallery-wrapper a{
+  cursor: pointer;
+  font-size: calc(1em + 2vw);
+  color: white;
+}
+.gallery-items{
+  width: 80%;
+  vertical-align: middle;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+}

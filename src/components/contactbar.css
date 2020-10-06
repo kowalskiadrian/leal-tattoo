@@ -1,0 +1,27 @@
+.contact-section{
+  height: 20vh;
+  width: 100vw;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.info{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info span{
+  font-size: calc(1em + 1vw);
+}
+.social{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 20%;
+}
+.social i {
+  font-size: calc(1em + 4vw);
+
+}
